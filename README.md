@@ -26,3 +26,10 @@ I'm constantly curious and eager to expand my data science capabilities. Whether
 
 I'm keen to connect with fellow data enthusiasts and experts. Let's share ideas, collaborate on projects, and explore the exciting world of data together. Connect with me on [LinkedIn](https://www.linkedin.com/in/safin-sherasiya/)!
 
+## 🚀 Latest Project
+
+### Multiple Disease Prediction
+
+This project leverages the power of machine learning techniques to analyze comprehensive datasets collected from diverse sources. By incorporating relevant features and employing advanced preprocessing techniques, the system ensures the accuracy and reliability of its predictions. Diseases such as Diabetes and heart disease are targeted, aiming to provide early detection and proactive management strategies.
+
+[Check out the project](https://github.com/safin-sherasiya/Multiple-Disease-Prediction)
